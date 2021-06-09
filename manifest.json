@@ -2,7 +2,7 @@
     "theme_color": "#f39921",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/pwatest.github.io/",
     "start_url": "/pwatest.github.io/index.html",
     "name": "PWA APP",
     "short_name": "PwaApp",
