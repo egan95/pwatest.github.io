@@ -1,7 +1,7 @@
 const filesToCache = [
-    '/index.html',
-    '/assets/js/main.js',
-    '/assets/css/style.css'
+    '/pwatest.github.io/index.html',
+    '/pwatest.github.io/assets/js/main.js',
+    '/pwatest.github.io/assets/css/style.css'
   ];
   
   const staticCacheName = 'pages-cache-v1';
